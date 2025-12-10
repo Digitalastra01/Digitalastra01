@@ -66,14 +66,9 @@ ABES Institute of Technology (2020 – 2024)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digitalastra01&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digitalastra01&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Digitalastra01&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Digitalastra01&theme=tokyonight"/>
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Digitalastra01&layout=compact&theme=tokyonight)
 
 
 ---
