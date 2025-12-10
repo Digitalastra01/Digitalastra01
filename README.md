@@ -8,40 +8,42 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 🔧 Skills
 
-**Languages**: Python, SQL  
+**Languages**: Python, PostgreSQL  
 **ML/DL Frameworks**: PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV  
 **GenAI & NLP**: OpenAI, HuggingFace, LangChain, Pinecone, Groq  
-**Backend & APIs**: FastAPI, Flask  
-**Cloud & Tools**: AWS, Docker, Git, SageMaker, Jupyter, Google Colab
+**Backend & APIs**: FastAPI  
+**Cloud & Tools**: AWS, Docker, Git/GitHub, SageMaker, Jupyter, Google Colab
 
 ---
 
 ## 💼 Experience
 
 ### **Software Engineer (AI/ML)**
-Toadster Technologies | 10/2025 – Present | Noida, Uttar Pradesh
-Developed and maintained AI/ML-driven automation pipelines.
-Worked on LLM-based solutions, including prompt engineering, fine-tuning, and performance optimization.
-Collaborated with cross-functional teams to integrate ML models into production systems using FastAPI and Docker.
-Built scalable data processing workflows and optimized inference pipelines on AWS.
+**Toadster Technologies** | *Oct 2025 – Present* | 📍 Noida, Uttar Pradesh
+> *Developing scalable AI solutions and automation pipelines.*
+*   🚀 **Automation**: Developing AI/ML-driven automation pipelines to streamline internal processes.
+*   🧠 **LLM Engineering**: Working on **LLM fine-tuning**, **prompt engineering**, and performance optimization.
+*   ☁️ **Cloud Integration**: Integrating ML models into production using **FastAPI** and **Docker** on **AWS**.
 
 ### **Machine Learning Engineer**
-Cocolevio LLC | 04/2025 – 09/2025 | Noida, Uttar Pradesh
-Optimized and redesigned prompts in workflows, improving model consistency using Prompt Engineering.
-Fine-tuned LLMs for resume parsing and semantic similarity tasks using PyTorch and Transformers.
-Conducted benchmarking and evaluation of LLMs using metrics such as BLEU, ROUGE, Accuracy, Perplexity.
-Deployed inference pipelines using Docker, AWS, and GCP, optimizing CPU/GPU utilization and reducing latency by 30%.
+**Cocolevio LLC** | *Apr 2025 – Sep 2025* | 📍 Noida, Uttar Pradesh
+> *Optimized LLM workflows and deployed inference pipelines.*
+*   📄 **Prompt Optimization**: Redesigned prompts for HR workflows, improving model consistency.
+*   🎯 **Fine-tuning**: Fine-tuned LLMs for resume parsing and semantic similarity tasks using **PyTorch** and **Transformers**.
+*   📊 **Benchmarking**: Evaluated LLMs using BLEU, ROUGE, and Perplexity metrics.
+*   ⚡ **Performance**: Deployed inference pipelines on **AWS** and **GCP**, reducing latency by **30%**.
 
 ### **AI Developer**
-Unified Voice Communication | 12/2024 – 04/2025 | Pune, Maharashtra
-Built an AI-powered customer support chatbot using GPT-4o-mini and Pinecone for knowledge retrieval.
-Developed automated transcription pipelines using OpenAI speech-to-text models.
-Implemented speaker diarization for multi-party conversations and integrated LLM-driven conversational AI into business workflows.
+**Unified Voice Communication** | *Dec 2024 – Apr 2025* | 📍 Pune, Maharashtra
+> *Built conversational AI tools and transcription systems.*
+*   🤖 **Chatbot**: Built an AI customer support chatbot using **GPT-4o-mini** and **Pinecone**.
+*   🎙️ **Audio Processing**: Developed automated transcription pipelines and speaker diarization.
 
 ### **AI/ML Engineer Trainee**
-Xcelore | 07/2024 – 11/2024 | Noida, Uttar Pradesh
-Built LLM Agent workflows integrating web crawling, vector databases, and semantic search using Transformers, Groq, FAISS, Pinecone, FastAPI, MongoDB, LangChain.
-Developed Computer Vision tools for enterprise safety with hazardous action tracking using YOLOv8, OpenCV, MongoDB, Roboflow.
+**Xcelore** | *Jul 2024 – Nov 2024* | 📍 Noida, Uttar Pradesh
+> *Developed agentic workflows and computer vision tools.*
+*   🕸️ **Agent Workflows**: Built LLM Agents with web crawling and semantic search (Groq, FAISS, LangChain).
+*   👁️ **Computer Vision**: Developed hazardous action tracking tools using **YOLOv8** and **OpenCV**.
 
 ---
 
@@ -62,15 +64,16 @@ ABES Institute of Technology (2020 – 2024)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avneesh-giri&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh-giri&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Digitalastra01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Digitalastra01&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
 Email: [giriavneesh9871@gmail.com](mailto:giriavneesh9871@gmail.com)  
-LinkedIn: [avneesh-giri](https://linkedin.com/in/avneesh-giri)
+LinkedIn: [avneesh-giri](https://linkedin.com/in/avneesh-giri)  
+Website: [avthemlguy.netlify.app](https://avthemlguy.netlify.app/)
 
 ---
 ✨ Always open to exciting collaborations in **AI, Machine Learning, and Generative AI projects**!
