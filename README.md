@@ -8,65 +8,52 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 🔧 Skills
 
-**Languages**: Python, PostgreSQL  
-**ML/DL Frameworks**: PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV  
-**GenAI & NLP**: OpenAI, HuggingFace, LangChain, Pinecone, Groq  
-**Backend & APIs**: FastAPI  
-**Cloud & Tools**: AWS, Docker, Git/GitHub, SageMaker, Jupyter, Google Colab
+## 💻 Tech Stack
 
----
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 💼 Experience
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Software Engineer (AI/ML)**
-**Toadster Technologies** | *Oct 2025 – Present* | 📍 Noida, Uttar Pradesh
-> *Developing scalable AI solutions and automation pipelines.*
-*   🚀 **Automation**: Developing AI/ML-driven automation pipelines to streamline internal processes.
-*   🧠 **LLM Engineering**: Working on **LLM fine-tuning**, **prompt engineering**, and performance optimization.
-*   ☁️ **Cloud Integration**: Integrating ML models into production using **FastAPI** and **Docker** on **AWS**.
+### GenAI & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### **Machine Learning Engineer**
-**Cocolevio LLC** | *Apr 2025 – Sep 2025* | 📍 Noida, Uttar Pradesh
-> *Optimized LLM workflows and deployed inference pipelines.*
-*   📄 **Prompt Optimization**: Redesigned prompts for HR workflows, improving model consistency.
-*   🎯 **Fine-tuning**: Fine-tuned LLMs for resume parsing and semantic similarity tasks using **PyTorch** and **Transformers**.
-*   📊 **Benchmarking**: Evaluated LLMs using BLEU, ROUGE, and Perplexity metrics.
-*   ⚡ **Performance**: Deployed inference pipelines on **AWS** and **GCP**, reducing latency by **30%**.
-
-### **AI Developer**
-**Unified Voice Communication** | *Dec 2024 – Apr 2025* | 📍 Pune, Maharashtra
-> *Built conversational AI tools and transcription systems.*
-*   🤖 **Chatbot**: Built an AI customer support chatbot using **GPT-4o-mini** and **Pinecone**.
-*   🎙️ **Audio Processing**: Developed automated transcription pipelines and speaker diarization.
-
-### **AI/ML Engineer Trainee**
-**Xcelore** | *Jul 2024 – Nov 2024* | 📍 Noida, Uttar Pradesh
-> *Developed agentic workflows and computer vision tools.*
-*   🕸️ **Agent Workflows**: Built LLM Agents with web crawling and semantic search (Groq, FAISS, LangChain).
-*   👁️ **Computer Vision**: Developed hazardous action tracking tools using **YOLOv8** and **OpenCV**.
-
----
-
-## 📂 Projects
-
-**[LLM Agent Workflows](#)** – Integrated web crawling, vector databases, and semantic search using Transformers, Groq, FAISS, and LangChain.  
-**[Customer Support Chatbot](#)** – RAG-based chatbot using GPT-4o-mini and Pinecone for knowledge retrieval.   
-**[Resume Parsing System](#)** – Fine-tuned LLMs for semantic similarity and resume parsing.
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering (Artificial Intelligence)**  
-ABES Institute of Technology (2020 – 2024)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Digitalastra01&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Digitalastra01&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Digitalastra01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Digitalastra01&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Digitalastra01&theme=tokyonight&hide_border=true&background=00000000)
+
+</div>
+
+---
+
+## 💡 Fun Fact
+<!-- FUN_FACT_START -->
+Run the workflow to see a fun fact here!
+<!-- FUN_FACT_END -->
 
 
 ---
@@ -76,6 +63,7 @@ ABES Institute of Technology (2020 – 2024)
 Email: [giriavneesh9871@gmail.com](mailto:giriavneesh9871@gmail.com)  
 LinkedIn: [avneesh-giri](https://linkedin.com/in/avneesh-giri)  
 Website: [avthemlguy.netlify.app](https://avthemlguy.netlify.app/)
+Instagram: [_avneeshgiri](https://www.instagram.com/_avneeshgiri/)
 
 ---
 ✨ Always open to exciting collaborations in **AI, Machine Learning, and Generative AI projects**!
