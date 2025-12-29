@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> For every 230 cars that are made, 1 will be stolen.
+> They NEVER said “Beam me up, Scotty” on Star Trek.
 <!-- FUN_FACT_END -->
 
 
