@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> They NEVER said “Beam me up, Scotty” on Star Trek.
+> There are 1 million ants for every human in the world.
 <!-- FUN_FACT_END -->
 
 
