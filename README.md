@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> There are 1 million ants for every human in the world.
+> A duck's quack doesn't echo, and no one knows why.
 <!-- FUN_FACT_END -->
 
 
