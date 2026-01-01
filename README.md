@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A duck's quack doesn't echo, and no one knows why.
+> God is not mentioned once in the book of Esther.
 <!-- FUN_FACT_END -->
 
 
