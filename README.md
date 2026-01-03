@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 15 million blood cells are destroyed in the human body every second.
+> The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!
 <!-- FUN_FACT_END -->
 
 
