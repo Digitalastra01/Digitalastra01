@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!
+> Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.
 <!-- FUN_FACT_END -->
 
 
