@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.
+> The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.
 <!-- FUN_FACT_END -->
 
 
