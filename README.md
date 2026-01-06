@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.
+> In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.
 <!-- FUN_FACT_END -->
 
 
