@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.
+> An average human loses about 200 head hairs per day.
 <!-- FUN_FACT_END -->
 
 
