@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> An average human loses about 200 head hairs per day.
+> The sun is 330,330 times larger than the earth.
 <!-- FUN_FACT_END -->
 
 
