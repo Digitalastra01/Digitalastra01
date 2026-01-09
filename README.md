@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The sun is 330,330 times larger than the earth.
+> “The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English.
 <!-- FUN_FACT_END -->
 
 
