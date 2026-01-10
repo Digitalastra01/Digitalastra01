@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> “The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English.
+> Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.
 <!-- FUN_FACT_END -->
 
 
