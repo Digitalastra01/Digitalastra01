@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.
+> Koala is Aboriginal for "no drink".
 <!-- FUN_FACT_END -->
 
 
