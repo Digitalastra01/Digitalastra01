@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The odds of being born male are about 51.2%, according to census.
+> An average human scalp has 100,000 hairs.
 <!-- FUN_FACT_END -->
 
 
