@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> An average human scalp has 100,000 hairs.
+> Did you know? Python is named after Monty Python's Flying Circus, not the snake!
 <!-- FUN_FACT_END -->
 
 
