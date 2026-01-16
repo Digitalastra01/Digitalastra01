@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> It has NEVER rained in Calama, a town in the Atacama Desert of Chile.
+> The most common name in Italy is Mario Rossi.
 <!-- FUN_FACT_END -->
 
 
