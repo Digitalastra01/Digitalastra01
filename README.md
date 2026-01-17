@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The most common name in Italy is Mario Rossi.
+> Lizards can self-amputate their tails for protection. It grows back after a few months.
 <!-- FUN_FACT_END -->
 
 
