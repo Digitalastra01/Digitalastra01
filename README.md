@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 15 million blood cells are destroyed in the human body every second.
+> The most common street name in the U.S. is Second Street.
 <!-- FUN_FACT_END -->
 
 
