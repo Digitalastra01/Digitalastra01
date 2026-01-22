@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Tigers have striped skin, not just striped fur.
+> Abraham Lincoln’s ghost is said to haunt the White House.
 <!-- FUN_FACT_END -->
 
 
