@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Most American car horns honk in the key of F.
+> The first novel ever written on a typewriter is Tom Sawyer.
 <!-- FUN_FACT_END -->
 
 
