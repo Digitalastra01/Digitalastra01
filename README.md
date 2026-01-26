@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The first novel ever written on a typewriter is Tom Sawyer.
+> Tehran is the most expensive city on earth.
 <!-- FUN_FACT_END -->
 
 
