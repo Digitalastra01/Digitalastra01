@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The first owner of the Marlboro company died of lung cancer.
+> Adolf Hitler was a vegetarian, and had only ONE testicle.
 <!-- FUN_FACT_END -->
 
 
