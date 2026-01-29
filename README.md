@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Adolf Hitler was a vegetarian, and had only ONE testicle.
+> Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.
 <!-- FUN_FACT_END -->
 
 
