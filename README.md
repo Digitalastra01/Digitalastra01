@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.
+> Only female mosquitoes bite.
 <!-- FUN_FACT_END -->
 
 
