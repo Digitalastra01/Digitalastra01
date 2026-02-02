@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Only female mosquitoes bite.
+> Albert Einstein and Charles Darwin both married their first cousins
 <!-- FUN_FACT_END -->
 
 
