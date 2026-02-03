@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Albert Einstein and Charles Darwin both married their first cousins
+> A horse can look forward with one eye and back with the other.
 <!-- FUN_FACT_END -->
 
 
