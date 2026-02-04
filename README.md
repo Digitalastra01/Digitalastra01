@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A horse can look forward with one eye and back with the other.
+> President John F Kennedy could read 4 newspapers in 20 minutes.
 <!-- FUN_FACT_END -->
 
 
