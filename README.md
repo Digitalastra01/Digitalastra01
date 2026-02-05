@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> President John F Kennedy could read 4 newspapers in 20 minutes.
+> Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.
 <!-- FUN_FACT_END -->
 
 
