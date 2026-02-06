@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.
+> Daffy Duck`s middle name is "Dumas"
 <!-- FUN_FACT_END -->
 
 
