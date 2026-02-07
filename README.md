@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Daffy Duck`s middle name is "Dumas"
+> Tehran is the most expensive city on earth.
 <!-- FUN_FACT_END -->
 
 
