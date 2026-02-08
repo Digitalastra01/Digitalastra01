@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Tehran is the most expensive city on earth.
+> The people of France eat more cheese than any other country in the world.
 <!-- FUN_FACT_END -->
 
 
