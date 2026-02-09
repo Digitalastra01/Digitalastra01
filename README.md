@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The people of France eat more cheese than any other country in the world.
+> Montpelier, Vermont is the only state capital without a McDonalds.
 <!-- FUN_FACT_END -->
 
 
