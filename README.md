@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Montpelier, Vermont is the only state capital without a McDonalds.
+> Mr. Rogers was an ordained minister. 
 <!-- FUN_FACT_END -->
 
 
