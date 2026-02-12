@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In America you will see an average of 500 advertisements a day.
+> It's against the law to burp, or sneeze in a church in Nebraska, USA.
 <!-- FUN_FACT_END -->
 
 
