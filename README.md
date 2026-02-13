@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> It's against the law to burp, or sneeze in a church in Nebraska, USA.
+> Triskaidekaphobia means fear of the number 13.
 <!-- FUN_FACT_END -->
 
 
