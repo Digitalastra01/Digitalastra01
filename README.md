@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 315 entries in Webster’s 1996 dictionary were misspelled.
+> The giant squid has the largest eyes in the world.
 <!-- FUN_FACT_END -->
 
 
