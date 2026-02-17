@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The giant squid has the largest eyes in the world.
+> Children grow faster in the springtime.
 <!-- FUN_FACT_END -->
 
 
