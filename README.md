@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. 
+> Most Egyptians died by the time they were 30 about 300 years ago,
 <!-- FUN_FACT_END -->
 
 
