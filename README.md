@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Each month, there is at least one report of UFOs from each province of Canada.
+> On average, 100 people choke to death on ball-point pens every year.
 <!-- FUN_FACT_END -->
 
 
