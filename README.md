@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> On average, 100 people choke to death on ball-point pens every year.
+> the bird is the word
 <!-- FUN_FACT_END -->
 
 
