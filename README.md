@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> the bird is the word
+> The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.
 <!-- FUN_FACT_END -->
 
 
