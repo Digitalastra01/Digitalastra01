@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.
+> Tehran is the most expensive city on earth.
 <!-- FUN_FACT_END -->
 
 
