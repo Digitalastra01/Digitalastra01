@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Tehran is the most expensive city on earth.
+> Sweden has the least number of murders annually.
 <!-- FUN_FACT_END -->
 
 
