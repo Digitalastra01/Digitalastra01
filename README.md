@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Sweden has the least number of murders annually.
+> The mother of Michael Nesmith of "The Monkees" invented whiteout.
 <!-- FUN_FACT_END -->
 
 
