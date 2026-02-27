@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The mother of Michael Nesmith of "The Monkees" invented whiteout.
+> The most common name in Italy is Mario Rossi.
 <!-- FUN_FACT_END -->
 
 
