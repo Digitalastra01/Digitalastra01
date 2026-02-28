@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The most common name in Italy is Mario Rossi.
+> Your tongue is the only muscle in your body that is attached at only one end.
 <!-- FUN_FACT_END -->
 
 
