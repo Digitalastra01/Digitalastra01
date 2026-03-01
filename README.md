@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Your tongue is the only muscle in your body that is attached at only one end.
+> Ten percent of the Russian government`s income comes from the sale of vodka.
 <!-- FUN_FACT_END -->
 
 
