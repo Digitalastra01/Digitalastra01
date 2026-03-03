@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> All polar bears are left-handed.
+> Ten percent of the Russian government`s income comes from the sale of vodka.
 <!-- FUN_FACT_END -->
 
 
