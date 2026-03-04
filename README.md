@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Ten percent of the Russian government`s income comes from the sale of vodka.
+> There is actually no danger in swimming right after you eat, though it may feel uncomfortable.
 <!-- FUN_FACT_END -->
 
 
