@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> There is actually no danger in swimming right after you eat, though it may feel uncomfortable.
+> In the 1980`s American migraines increased by 60%.
 <!-- FUN_FACT_END -->
 
 
