@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In the 1980`s American migraines increased by 60%.
+> A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.
 <!-- FUN_FACT_END -->
 
 
