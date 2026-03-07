@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.
+> "Venus observa" is the technical term for the "missionary position."
 <!-- FUN_FACT_END -->
 
 
