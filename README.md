@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> "Venus observa" is the technical term for the "missionary position."
+>     Dueling is legal in Paraguay as long as both parties are registered blood donors.
 <!-- FUN_FACT_END -->
 
 
