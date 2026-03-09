@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
->     Dueling is legal in Paraguay as long as both parties are registered blood donors.
+> The U.S. bought Alaska for 2 cents an acre from Russia.
 <!-- FUN_FACT_END -->
 
 
