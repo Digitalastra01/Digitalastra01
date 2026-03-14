@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.
+> There is actually no danger in swimming right after you eat, though it may feel uncomfortable.
 <!-- FUN_FACT_END -->
 
 
