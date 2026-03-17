@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The dot over the letter `i` is called a tittle.  
+> %60 of all people using the Internet, use it for pornography.
 <!-- FUN_FACT_END -->
 
 
