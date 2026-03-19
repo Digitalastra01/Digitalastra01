@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The “spot” on the 7-Up logo comes from its inventor who had red eyes. He was an albino.
+> Dolphins can look in different directions with each eye. They can sleep with one eye open.
 <!-- FUN_FACT_END -->
 
 
