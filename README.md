@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Dolphins can look in different directions with each eye. They can sleep with one eye open.
+> The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle.
 <!-- FUN_FACT_END -->
 
 
