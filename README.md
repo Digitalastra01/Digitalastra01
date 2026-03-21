@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle.
+> 400-quarter pounders can be made from 1 cow.
 <!-- FUN_FACT_END -->
 
 
