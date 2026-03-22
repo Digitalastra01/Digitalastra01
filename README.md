@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 400-quarter pounders can be made from 1 cow.
+> Average life span of a major league baseball: 7 pitches.
 <!-- FUN_FACT_END -->
 
 
