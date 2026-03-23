@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Average life span of a major league baseball: 7 pitches.
+> In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!
 <!-- FUN_FACT_END -->
 
 
