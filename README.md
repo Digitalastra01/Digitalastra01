@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!
+> The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.
 <!-- FUN_FACT_END -->
 
 
