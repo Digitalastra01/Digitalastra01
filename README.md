@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.
+> No piece of square dry paper can be folded in half more than 7 times
 <!-- FUN_FACT_END -->
 
 
