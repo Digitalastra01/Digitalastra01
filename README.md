@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> No piece of square dry paper can be folded in half more than 7 times
+> Russians generally answer the phone by saying, "I'm listening".
 <!-- FUN_FACT_END -->
 
 
