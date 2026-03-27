@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Russians generally answer the phone by saying, "I'm listening".
+> More than 90% of the Nicaraguan people are Roman Catholic.
 <!-- FUN_FACT_END -->
 
 
