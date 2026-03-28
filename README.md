@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> More than 90% of the Nicaraguan people are Roman Catholic.
+> The U.S. Post Office handles 43 percent of the world’s mail.
 <!-- FUN_FACT_END -->
 
 
