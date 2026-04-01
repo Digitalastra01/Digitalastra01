@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.
+> The most common street name in the U.S. is Second Street.
 <!-- FUN_FACT_END -->
 
 
