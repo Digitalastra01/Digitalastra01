@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The most common street name in the U.S. is Second Street.
+> "Dreamt" is the only English word that ends in the letters "mt." 
 <!-- FUN_FACT_END -->
 
 
