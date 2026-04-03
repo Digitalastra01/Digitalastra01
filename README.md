@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> "Dreamt" is the only English word that ends in the letters "mt." 
+> Honey is the only natural food that is made without destroying any kind of life.
 <!-- FUN_FACT_END -->
 
 
