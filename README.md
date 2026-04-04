@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Honey is the only natural food that is made without destroying any kind of life.
+> The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.
 <!-- FUN_FACT_END -->
 
 
