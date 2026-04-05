@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.
+> Mount Olympus Mons on Mars is three times the size of Mount Everest.
 <!-- FUN_FACT_END -->
 
 
