@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Mount Olympus Mons on Mars is three times the size of Mount Everest.
+> Coca-Cola would be green if coloring weren’t added to it.
 <!-- FUN_FACT_END -->
 
 
