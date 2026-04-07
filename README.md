@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Coca-Cola would be green if coloring weren’t added to it.
+> Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. 
 <!-- FUN_FACT_END -->
 
 
