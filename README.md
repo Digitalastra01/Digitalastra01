@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. 
+> One in fourteen women in America is a natural blonde. Only one in sixteen men is.
 <!-- FUN_FACT_END -->
 
 
