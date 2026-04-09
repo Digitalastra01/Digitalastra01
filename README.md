@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> One in fourteen women in America is a natural blonde. Only one in sixteen men is.
+> The placement of a donkey's eyes in it’s' heads enables it to see all four feet at all times!
 <!-- FUN_FACT_END -->
 
 
