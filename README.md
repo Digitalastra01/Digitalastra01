@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The placement of a donkey's eyes in it’s' heads enables it to see all four feet at all times!
+> There are more than 10 million bricks in the Empire State Building.
 <!-- FUN_FACT_END -->
 
 
