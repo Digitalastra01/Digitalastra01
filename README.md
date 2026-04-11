@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> There are more than 10 million bricks in the Empire State Building.
+> "Go." is the shortest complete sentence in the English language.
 <!-- FUN_FACT_END -->
 
 
