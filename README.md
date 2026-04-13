@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The state of Florida is bigger than England!
+> Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
 <!-- FUN_FACT_END -->
 
 
