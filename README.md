@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
+> More bullets were fired in `Starship Troopers` than any other movie ever made.
 <!-- FUN_FACT_END -->
 
 
