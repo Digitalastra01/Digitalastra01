@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> More bullets were fired in `Starship Troopers` than any other movie ever made.
+> All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.
 <!-- FUN_FACT_END -->
 
 
