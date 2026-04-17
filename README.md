@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.
+> Of all the words in the English language, the word 'set' has the most definitions!
 <!-- FUN_FACT_END -->
 
 
