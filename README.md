@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Of all the words in the English language, the word 'set' has the most definitions!
+> In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.
 <!-- FUN_FACT_END -->
 
 
