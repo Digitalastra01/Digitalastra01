@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.
+> Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.
 <!-- FUN_FACT_END -->
 
 
