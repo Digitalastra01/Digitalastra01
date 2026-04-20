@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.
+> The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.
 <!-- FUN_FACT_END -->
 
 
