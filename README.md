@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> You burn more calories sleeping than you do watching TV.
+> The “spot” on the 7-Up logo comes from its inventor who had red eyes. He was an albino.
 <!-- FUN_FACT_END -->
 
 
