@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The "pound" key on your keyboard (#) is called an octotroph. 
+> Camel’s have three eyelids.
 <!-- FUN_FACT_END -->
 
 
