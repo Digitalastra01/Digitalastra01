@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Camel’s have three eyelids.
+> Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women
 <!-- FUN_FACT_END -->
 
 
