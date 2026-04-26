@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women
+> A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.
 <!-- FUN_FACT_END -->
 
 
