@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.
+> Spain leads the world in cork production
 <!-- FUN_FACT_END -->
 
 
