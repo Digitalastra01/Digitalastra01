@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Spain leads the world in cork production
+> Only female mosquitoes bite.
 <!-- FUN_FACT_END -->
 
 
