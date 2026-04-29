@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Only female mosquitoes bite.
+> Americans travel 1,144,721,000 miles by air every day
 <!-- FUN_FACT_END -->
 
 
