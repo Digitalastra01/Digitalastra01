@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The “spot” on the 7-Up logo comes from its inventor who had red eyes. He was an albino.
+> In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.
 <!-- FUN_FACT_END -->
 
 
