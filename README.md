@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.
+> The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com
 <!-- FUN_FACT_END -->
 
 
