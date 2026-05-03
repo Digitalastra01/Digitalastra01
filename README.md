@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com
+> Two-thirds of the world’s eggplant is grown in New Jersey.
 <!-- FUN_FACT_END -->
 
 
