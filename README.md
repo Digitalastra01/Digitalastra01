@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Two-thirds of the world’s eggplant is grown in New Jersey.
+> Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. 
 <!-- FUN_FACT_END -->
 
 
