@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. 
+> 2,000 pounds of space dust and other space debris fall on the Earth every day.
 <!-- FUN_FACT_END -->
 
 
