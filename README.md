@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 2,000 pounds of space dust and other space debris fall on the Earth every day.
+> Fingernails grow nearly 4 times faster than toenails!
 <!-- FUN_FACT_END -->
 
 
