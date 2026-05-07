@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Fingernails grow nearly 4 times faster than toenails!
+> Tina Turner's real name is Annie Mae Bullock.
 <!-- FUN_FACT_END -->
 
 
