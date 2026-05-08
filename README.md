@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Tina Turner's real name is Annie Mae Bullock.
+> To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.
 <!-- FUN_FACT_END -->
 
 
