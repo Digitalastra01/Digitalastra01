@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.
+> A horse can look forward with one eye and back with the other.
 <!-- FUN_FACT_END -->
 
 
