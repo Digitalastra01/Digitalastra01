@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A horse can look forward with one eye and back with the other.
+> Eskimos have over 15 words for the English word of 'Snow'
 <!-- FUN_FACT_END -->
 
 
