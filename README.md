@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Eskimos have over 15 words for the English word of 'Snow'
+> The average life of a taste bud is 10 days.
 <!-- FUN_FACT_END -->
 
 
