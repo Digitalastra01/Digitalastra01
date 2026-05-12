@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The average life of a taste bud is 10 days.
+> The average North American will eat 35,000 cookies during their life span.
 <!-- FUN_FACT_END -->
 
 
