@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The average North American will eat 35,000 cookies during their life span.
+> In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
 <!-- FUN_FACT_END -->
 
 
