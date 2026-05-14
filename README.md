@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
+> A snail can sleep for three years. 
 <!-- FUN_FACT_END -->
 
 
