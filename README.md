@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A snail can sleep for three years. 
+> There are 1,575 steps from the ground floor to the top of the Empire State building.
 <!-- FUN_FACT_END -->
 
 
