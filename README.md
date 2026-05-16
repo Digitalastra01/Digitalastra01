@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> There are 1,575 steps from the ground floor to the top of the Empire State building.
+> Your heart beats over 100,000 times a day!
 <!-- FUN_FACT_END -->
 
 
