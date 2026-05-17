@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Your heart beats over 100,000 times a day!
+> The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow
 <!-- FUN_FACT_END -->
 
 
