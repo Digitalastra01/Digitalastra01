@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The katydid bug hears through holes in its hind legs!
+> All polar bears are left-handed.
 <!-- FUN_FACT_END -->
 
 
