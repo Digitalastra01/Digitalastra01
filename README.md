@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> All polar bears are left-handed.
+> The average person`s left hand does 56% of the typing.
 <!-- FUN_FACT_END -->
 
 
