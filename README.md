@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The average person`s left hand does 56% of the typing.
+> Shakespeare spelled his OWN name several different ways.
 <!-- FUN_FACT_END -->
 
 
