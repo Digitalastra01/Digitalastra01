@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Shakespeare spelled his OWN name several different ways.
+> There is no solid proof of who built the Taj Mahal.
 <!-- FUN_FACT_END -->
 
 
