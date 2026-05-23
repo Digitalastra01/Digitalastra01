@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> There is no solid proof of who built the Taj Mahal.
+> The average person spends about two years on the phone in a lifetime.
 <!-- FUN_FACT_END -->
 
 
