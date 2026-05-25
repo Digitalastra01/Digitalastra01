@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.
+> Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.
 <!-- FUN_FACT_END -->
 
 
