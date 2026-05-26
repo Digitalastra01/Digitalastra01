@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.
+> Until 1994, world maps and globes sold in Albania only had Albania on them.
 <!-- FUN_FACT_END -->
 
 
