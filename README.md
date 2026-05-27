@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Until 1994, world maps and globes sold in Albania only had Albania on them.
+> The first toilet ever seen on television was on "Leave It to Beaver."
 <!-- FUN_FACT_END -->
 
 
