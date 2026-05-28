@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The first toilet ever seen on television was on "Leave It to Beaver."
+> One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.
 <!-- FUN_FACT_END -->
 
 
