@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.
+> The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.
 <!-- FUN_FACT_END -->
 
 
