@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow
+> Johnny Appleseed planted apples so that people could use apple cider to make alcohol.
 <!-- FUN_FACT_END -->
 
 
