@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.
+> Thirty-five percent of people who use personal ads for dating are already married.
 <!-- FUN_FACT_END -->
 
 
