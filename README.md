@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Thirty-five percent of people who use personal ads for dating are already married.
+> You were born with 300 bones, but by the time you are an adult you will only have 206.
 <!-- FUN_FACT_END -->
 
 
