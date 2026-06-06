@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Starfish haven`t got brains.
+> Cats have over 100 vocal sounds; dogs only have 10.
 <!-- FUN_FACT_END -->
 
 
