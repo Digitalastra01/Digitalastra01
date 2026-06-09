@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
+> On average, Americans eat 18 acres of pizza everyday.
 <!-- FUN_FACT_END -->
 
 
