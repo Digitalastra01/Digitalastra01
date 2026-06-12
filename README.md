@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain.
+> 40,000 Americans are injured by toilets each year.
 <!-- FUN_FACT_END -->
 
 
