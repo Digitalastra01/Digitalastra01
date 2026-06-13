@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 40,000 Americans are injured by toilets each year.
+> Hedenophobic means fear of pleasure.
 <!-- FUN_FACT_END -->
 
 
