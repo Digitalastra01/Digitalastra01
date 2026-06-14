@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Hedenophobic means fear of pleasure.
+> A cat has 32 muscles in each ear.
 <!-- FUN_FACT_END -->
 
 
