@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.
+> A whale`s penis is called a dork.
 <!-- FUN_FACT_END -->
 
 
