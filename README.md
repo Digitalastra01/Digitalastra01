@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A whale`s penis is called a dork.
+> Nutmeg is extremely poisonous if injected intravenously. 
 <!-- FUN_FACT_END -->
 
 
