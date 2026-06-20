@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Dr. Jack Kevorkian first patient has Alzheimer`s disease.
+> Did you know? Python is named after Monty Python's Flying Circus, not the snake!
 <!-- FUN_FACT_END -->
 
 
