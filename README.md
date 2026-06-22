@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> US gold coins used to say “In Gold We Trust”.
+> Intelligent people have more zinc and copper in their hair.
 <!-- FUN_FACT_END -->
 
 
