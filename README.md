@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.
+> The penguin is the only bird that can swim but can't fly.
 <!-- FUN_FACT_END -->
 
 
