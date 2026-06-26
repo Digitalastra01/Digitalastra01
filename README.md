@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The penguin is the only bird that can swim but can't fly.
+> The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.
 <!-- FUN_FACT_END -->
 
 
