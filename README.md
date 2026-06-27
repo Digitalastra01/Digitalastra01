@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.
+> The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.
 <!-- FUN_FACT_END -->
 
 
