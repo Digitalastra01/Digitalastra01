@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.
+> Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.
 <!-- FUN_FACT_END -->
 
 
