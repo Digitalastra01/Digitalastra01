@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.
+> Like fingerprints, everyone's tongue print is different!
 <!-- FUN_FACT_END -->
 
 
