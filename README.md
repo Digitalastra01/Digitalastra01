@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Like fingerprints, everyone's tongue print is different!
+> The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.
 <!-- FUN_FACT_END -->
 
 
