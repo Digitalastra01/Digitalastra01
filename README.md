@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.
+> In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark
 <!-- FUN_FACT_END -->
 
 
