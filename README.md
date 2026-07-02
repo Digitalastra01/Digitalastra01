@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark
+> 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.
 <!-- FUN_FACT_END -->
 
 
