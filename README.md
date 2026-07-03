@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.
+> Astronaut Neil Armstrong first stepped on the moon with his left foot.
 <!-- FUN_FACT_END -->
 
 
