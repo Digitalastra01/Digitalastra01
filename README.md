@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Astronaut Neil Armstrong first stepped on the moon with his left foot.
+> Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
 <!-- FUN_FACT_END -->
 
 
