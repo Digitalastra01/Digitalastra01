@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
+> The Simpsons is the longest running animated series on TV.
 <!-- FUN_FACT_END -->
 
 
