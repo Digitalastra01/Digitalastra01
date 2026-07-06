@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The Simpsons is the longest running animated series on TV.
+> Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.
 <!-- FUN_FACT_END -->
 
 
