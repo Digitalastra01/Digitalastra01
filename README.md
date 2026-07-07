@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.
+> Humans are the only primates that don`t have pigment in the palms of their hands.
 <!-- FUN_FACT_END -->
 
 
