@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Humans are the only primates that don`t have pigment in the palms of their hands.
+> The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.
 <!-- FUN_FACT_END -->
 
 
