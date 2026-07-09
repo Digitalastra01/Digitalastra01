@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.
+> Our eyes are always the same size from birth but our nose and ears never stop growing.
 <!-- FUN_FACT_END -->
 
 
