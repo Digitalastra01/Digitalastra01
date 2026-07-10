@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Our eyes are always the same size from birth but our nose and ears never stop growing.
+> The most popular first name in the world is Muhammad.
 <!-- FUN_FACT_END -->
 
 
