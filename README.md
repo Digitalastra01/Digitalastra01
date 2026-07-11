@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The most popular first name in the world is Muhammad.
+> In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
 <!-- FUN_FACT_END -->
 
 
