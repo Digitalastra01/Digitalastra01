@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
+> During the chariot scene in "Ben Hur," a small red car can be seen in the distance.
 <!-- FUN_FACT_END -->
 
 
