@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> During the chariot scene in "Ben Hur," a small red car can be seen in the distance.
+> A chameleon's tongue is twice the length of its body.
 <!-- FUN_FACT_END -->
 
 
