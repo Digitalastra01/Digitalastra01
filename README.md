@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A chameleon's tongue is twice the length of its body.
+> 40% of all people who come to a party in your home snoop in your medicine cabinet
 <!-- FUN_FACT_END -->
 
 
