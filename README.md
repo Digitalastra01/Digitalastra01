@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The U.S. bought Alaska for 2 cents an acre from Russia.
+> 40% of all people who come to a party in your home snoop in your medicine cabinet
 <!-- FUN_FACT_END -->
 
 
