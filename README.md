@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 40% of all people who come to a party in your home snoop in your medicine cabinet
+> More Monopoly money is printed in a year, than real money throughout the world.
 <!-- FUN_FACT_END -->
 
 
