@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> More Monopoly money is printed in a year, than real money throughout the world.
+> If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.
 <!-- FUN_FACT_END -->
 
 
