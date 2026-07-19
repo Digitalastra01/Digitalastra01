@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.
+> Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.
 <!-- FUN_FACT_END -->
 
 
