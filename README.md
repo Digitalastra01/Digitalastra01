@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Koalas never drink water. They get fluids from the eucalyptus leaves they eat.
+> Switzerland is the only country with a square flag.
 <!-- FUN_FACT_END -->
 
 
