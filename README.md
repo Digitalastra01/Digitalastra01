@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Switzerland is the only country with a square flag.
+> Over 1000 birds a year die from smashing into windows!
 <!-- FUN_FACT_END -->
 
 
