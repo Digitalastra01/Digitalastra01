@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Over 1000 birds a year die from smashing into windows!
+> Canada is the only country not to win a gold medal in the summer Olympic games while hosting.
 <!-- FUN_FACT_END -->
 
 
