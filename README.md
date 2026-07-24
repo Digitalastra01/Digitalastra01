@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Canada is the only country not to win a gold medal in the summer Olympic games while hosting.
+> The state of Florida is bigger than England.
 <!-- FUN_FACT_END -->
 
 
