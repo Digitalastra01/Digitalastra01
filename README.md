@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Poland is the "stolen car capital of the world".
+> Virginia Woolf wrote all her books standing.
 <!-- FUN_FACT_END -->
 
 
