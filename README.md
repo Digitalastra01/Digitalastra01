@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Virginia Woolf wrote all her books standing.
+> The surface of the Earth is about 60% water and 10% ice.
 <!-- FUN_FACT_END -->
 
 
