@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The surface of the Earth is about 60% water and 10% ice.
+> Pinocchio is Italian for "pine head."
 <!-- FUN_FACT_END -->
 
 
