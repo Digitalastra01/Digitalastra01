@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Pinocchio is Italian for "pine head."
+> The longest one-syllable word in the English language is "screeched."
 <!-- FUN_FACT_END -->
 
 
