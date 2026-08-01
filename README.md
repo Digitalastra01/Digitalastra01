@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 28% of Africa is classified as wilderness. In North America, its 38%.
+> The sun is 330,330 times larger than the earth.
 <!-- FUN_FACT_END -->
 
 
