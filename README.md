@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The sun is 330,330 times larger than the earth.
+> The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.
 <!-- FUN_FACT_END -->
 
 
