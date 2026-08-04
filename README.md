@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> One in fourteen women in America is a natural blonde. Only one in sixteen men is.
+> It's possible to lead a cow upstairs...but not downstairs.
 <!-- FUN_FACT_END -->
 
 
