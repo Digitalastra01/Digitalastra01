@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> It's possible to lead a cow upstairs...but not downstairs.
+> The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.
 <!-- FUN_FACT_END -->
 
 
