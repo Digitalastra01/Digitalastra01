@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 80% of burglaries are committed by people aged 13-21.
+> In America you will see an average of 500 advertisements a day.
 <!-- FUN_FACT_END -->
 
 
