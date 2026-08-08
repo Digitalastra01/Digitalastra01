@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In America you will see an average of 500 advertisements a day.
+> "Dreamt" is the only English word that ends in the letters "mt."
 <!-- FUN_FACT_END -->
 
 
