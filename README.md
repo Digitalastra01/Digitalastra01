@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> "Dreamt" is the only English word that ends in the letters "mt."
+> President John F Kennedy could read 4 newspapers in 20 minutes.
 <!-- FUN_FACT_END -->
 
 
