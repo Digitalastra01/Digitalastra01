@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> President John F Kennedy could read 4 newspapers in 20 minutes.
+> You can't kill yourself by holding your breath
 <!-- FUN_FACT_END -->
 
 
