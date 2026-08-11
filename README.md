@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> You can't kill yourself by holding your breath
+> The average American looks at eight houses before buying one.
 <!-- FUN_FACT_END -->
 
 
