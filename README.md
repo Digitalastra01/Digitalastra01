@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The average American looks at eight houses before buying one.
+> Julius Caesar’s autograph is worth about $2,000,000.
 <!-- FUN_FACT_END -->
 
 
