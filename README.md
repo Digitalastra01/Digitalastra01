@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Julius Caesar’s autograph is worth about $2,000,000.
+> The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.
 <!-- FUN_FACT_END -->
 
 
