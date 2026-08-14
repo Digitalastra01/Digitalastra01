@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.
+> "Venus observa" is the technical term for the "missionary position."
 <!-- FUN_FACT_END -->
 
 
