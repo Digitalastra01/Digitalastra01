@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> "Venus observa" is the technical term for the "missionary position."
+> The flea can jump 350 times its body length. It's like a human jumping the length of a football field.
 <!-- FUN_FACT_END -->
 
 
