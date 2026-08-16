@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The flea can jump 350 times its body length. It's like a human jumping the length of a football field.
+> It`s possible to lead a cow upstairs but not downstairs.
 <!-- FUN_FACT_END -->
 
 
