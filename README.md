@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> It`s possible to lead a cow upstairs but not downstairs.
+> Sherlock Holmes NEVER said “Elementary, my dear Watson”
 <!-- FUN_FACT_END -->
 
 
