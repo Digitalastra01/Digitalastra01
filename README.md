@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Sherlock Holmes NEVER said “Elementary, my dear Watson”
+> Hannibal had only one eye after getting a disease while attacking Rome.
 <!-- FUN_FACT_END -->
 
 
