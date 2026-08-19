@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Hannibal had only one eye after getting a disease while attacking Rome.
+> The first license plate on a car in the United States was issued in Denver, Colorado in 1908.
 <!-- FUN_FACT_END -->
 
 
