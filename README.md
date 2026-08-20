@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The first license plate on a car in the United States was issued in Denver, Colorado in 1908.
+> It’s estimated that at any one time around 0.7% of the world’s population is drunk.
 <!-- FUN_FACT_END -->
 
 
