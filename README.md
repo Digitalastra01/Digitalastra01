@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> It’s estimated that at any one time around 0.7% of the world’s population is drunk.
+> 80% of burglaries are committed by people aged 13-21.
 <!-- FUN_FACT_END -->
 
 
