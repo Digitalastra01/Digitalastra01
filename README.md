@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 80% of burglaries are committed by people aged 13-21.
+> Over 1000 birds a year die from smashing into windows!
 <!-- FUN_FACT_END -->
 
 
