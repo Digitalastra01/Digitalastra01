@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Over 1000 birds a year die from smashing into windows!
+> The name Jeep comes from “GP”, the army abbreviation for General Purpose.
 <!-- FUN_FACT_END -->
 
 
