@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The name Jeep comes from “GP”, the army abbreviation for General Purpose.
+> Tina Turner's real name is Annie Mae Bullock.
 <!-- FUN_FACT_END -->
 
 
