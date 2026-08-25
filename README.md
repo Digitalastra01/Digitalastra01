@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Tina Turner's real name is Annie Mae Bullock.
+> Sharkskin has tiny tooth-like scales all over.
 <!-- FUN_FACT_END -->
 
 
