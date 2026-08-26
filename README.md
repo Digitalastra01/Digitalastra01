@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Sharkskin has tiny tooth-like scales all over.
+> You spend 7 years of your life in the bathroom.
 <!-- FUN_FACT_END -->
 
 
