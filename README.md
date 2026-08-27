@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> You spend 7 years of your life in the bathroom.
+> For every 230 cars that are made, 1 will be stolen.
 <!-- FUN_FACT_END -->
 
 
