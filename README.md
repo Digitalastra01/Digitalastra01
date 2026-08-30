@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.
+> The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)
 <!-- FUN_FACT_END -->
 
 
