@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)
+> The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  
 <!-- FUN_FACT_END -->
 
 
