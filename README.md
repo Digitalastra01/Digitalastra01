@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  
+> The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.
 <!-- FUN_FACT_END -->
 
 
