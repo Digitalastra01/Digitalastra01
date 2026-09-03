@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".
+> Did you know? Python is named after Monty Python's Flying Circus, not the snake!
 <!-- FUN_FACT_END -->
 
 
