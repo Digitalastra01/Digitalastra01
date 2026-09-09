@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Giraffes and rats can last longer without water than camels.
+> Marilyn Monroe had six toes.
 <!-- FUN_FACT_END -->
 
 
