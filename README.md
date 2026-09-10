@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Marilyn Monroe had six toes.
+> The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  
 <!-- FUN_FACT_END -->
 
 
