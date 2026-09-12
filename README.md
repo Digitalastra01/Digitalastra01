@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.
+> More than 50% of the people in the world have never made or received a telephone call.
 <!-- FUN_FACT_END -->
 
 
