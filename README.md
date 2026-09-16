@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A giraffe can go without water longer than a camel.
+> Greenland is the largest island in the world.
 <!-- FUN_FACT_END -->
 
 
