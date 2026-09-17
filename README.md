@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Greenland is the largest island in the world.
+> 40,000 Americans are injured by toilets each year.
 <!-- FUN_FACT_END -->
 
 
