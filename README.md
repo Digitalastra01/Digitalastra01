@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The highest point in Pennsylvania is lower than the lowest point in Colorado.
+> Leonardo da Vinci could write with one hand while drawing with the other
 <!-- FUN_FACT_END -->
 
 
