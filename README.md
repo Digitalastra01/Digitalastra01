@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Earth is the only planet not named after a god.
+> PEZ candy even comes in a Coffee flavor.
 <!-- FUN_FACT_END -->
 
 
