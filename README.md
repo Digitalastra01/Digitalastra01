@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> PEZ candy even comes in a Coffee flavor.
+> A cat uses its whiskers to determine if a space is too small to squeeze through.
 <!-- FUN_FACT_END -->
 
 
