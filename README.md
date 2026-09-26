@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A man's beard grows fastest when he anticipates sex.
+> The state of Florida is bigger than England!
 <!-- FUN_FACT_END -->
 
 
