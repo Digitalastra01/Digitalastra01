@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The state of Florida is bigger than England!
+> Q is the only letter in the alphabet that does not appear in the name of any of the United States!
 <!-- FUN_FACT_END -->
 
 
