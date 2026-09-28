@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Q is the only letter in the alphabet that does not appear in the name of any of the United States!
+> It takes more calories to eat a piece of celery than the celery has in it to begin with.
 <!-- FUN_FACT_END -->
 
 
