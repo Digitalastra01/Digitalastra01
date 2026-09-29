@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> It takes more calories to eat a piece of celery than the celery has in it to begin with.
+> The most sensitive cluster of nerves is at the base of the spine.
 <!-- FUN_FACT_END -->
 
 
