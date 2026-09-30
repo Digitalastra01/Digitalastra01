@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The most sensitive cluster of nerves is at the base of the spine.
+> Meteorologists claim they`re right 85% of the time (think about that one!)
 <!-- FUN_FACT_END -->
 
 
