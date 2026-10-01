@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Meteorologists claim they`re right 85% of the time (think about that one!)
+> About 200,000,000 M&Ms are sold each day in the United States.
 <!-- FUN_FACT_END -->
 
 
