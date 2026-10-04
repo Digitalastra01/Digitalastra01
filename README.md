@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.
+> A giraffe can go without water longer than a camel.
 <!-- FUN_FACT_END -->
 
 
