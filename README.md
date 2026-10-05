@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A giraffe can go without water longer than a camel.
+> Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  
 <!-- FUN_FACT_END -->
 
 
