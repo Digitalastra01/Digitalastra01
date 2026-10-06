@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  
+> A shrimp’s heart is in its head.
 <!-- FUN_FACT_END -->
 
 
