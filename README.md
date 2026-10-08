@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The ant always falls over on its right side when intoxicated.
+> Every US president has worn glasses (just not always in public).
 <!-- FUN_FACT_END -->
 
 
