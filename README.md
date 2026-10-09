@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Every US president has worn glasses (just not always in public).
+> A cockroach will live nine days without its head before it starves to death.
 <!-- FUN_FACT_END -->
 
 
