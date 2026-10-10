@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A cockroach will live nine days without its head before it starves to death.
+> Netherlands is the only country with a national dog.
 <!-- FUN_FACT_END -->
 
 
