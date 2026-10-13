@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Kelsey Grammar sings and plays the piano for the theme song of Fraiser.
+> A lion in the wild usually makes no more than 20 kills a year.
 <!-- FUN_FACT_END -->
 
 
