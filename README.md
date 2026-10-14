@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A lion in the wild usually makes no more than 20 kills a year.
+> In every episode of “Seinfeld” there is a Superman picture or reference somewhere.
 <!-- FUN_FACT_END -->
 
 
