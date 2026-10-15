@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In every episode of “Seinfeld” there is a Superman picture or reference somewhere.
+> 14% of Americans have skinny-dipped with a member of the opposite sex at least once.
 <!-- FUN_FACT_END -->
 
 
