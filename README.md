@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 14% of Americans have skinny-dipped with a member of the opposite sex at least once.
+> In the 1980`s American migraines increased by 60%.
 <!-- FUN_FACT_END -->
 
 
