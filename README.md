@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In the 1980`s American migraines increased by 60%.
+> In every episode of Seinfeld there is a Superman somewhere.
 <!-- FUN_FACT_END -->
 
 
