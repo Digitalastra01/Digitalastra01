@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In every episode of Seinfeld there is a Superman somewhere.
+> In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
 <!-- FUN_FACT_END -->
 
 
