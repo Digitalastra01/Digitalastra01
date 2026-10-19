@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
+> A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.
 <!-- FUN_FACT_END -->
 
 
