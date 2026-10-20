@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.
+> While in Alcatraz, Al Capone was inmate #85.
 <!-- FUN_FACT_END -->
 
 
