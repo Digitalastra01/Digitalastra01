@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> While in Alcatraz, Al Capone was inmate #85.
+> More than 50% of the people in the world have never made or received a telephone call.
 <!-- FUN_FACT_END -->
 
 
