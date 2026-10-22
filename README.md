@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> More than 50% of the people in the world have never made or received a telephone call.
+> The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.
 <!-- FUN_FACT_END -->
 
 
