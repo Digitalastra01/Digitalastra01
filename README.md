@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.
+> In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
 <!-- FUN_FACT_END -->
 
 
