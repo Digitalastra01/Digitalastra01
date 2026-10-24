@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
+> "Go." is the shortest complete sentence in the English language.
 <!-- FUN_FACT_END -->
 
 
