@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> "Go." is the shortest complete sentence in the English language.
+> A cat's jaw cannot move sideways.
 <!-- FUN_FACT_END -->
 
 
