@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A cat's jaw cannot move sideways.
+> February 1865 is the only month in recorded history not to have a full moon.
 <!-- FUN_FACT_END -->
 
 
