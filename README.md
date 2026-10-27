@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> February 1865 is the only month in recorded history not to have a full moon.
+> 38% of American men say they love their cars more than women
 <!-- FUN_FACT_END -->
 
 
