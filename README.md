@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> 38% of American men say they love their cars more than women
+> The strongest muscle (Relative to size) in the body is the tongue.
 <!-- FUN_FACT_END -->
 
 
