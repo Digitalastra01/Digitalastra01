@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Did you know? Python is named after Monty Python's Flying Circus, not the snake!
+> NBA superstar Michael Jordan was originally cut from his high school basketball team.
 <!-- FUN_FACT_END -->
 
 
