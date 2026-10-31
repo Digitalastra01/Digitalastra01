@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> NBA superstar Michael Jordan was originally cut from his high school basketball team.
+> The pupils of a goat`s eyes are square.
 <!-- FUN_FACT_END -->
 
 
