@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Albert Einstein and Charles Darwin both married their first cousins
+> Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.
 <!-- FUN_FACT_END -->
 
 
