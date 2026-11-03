@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.
+> This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.
 <!-- FUN_FACT_END -->
 
 
