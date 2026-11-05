@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Your ribs move about 5 million times a year, every time you breathe!
+> Mercury is the only planet whose orbit is coplanar with its equator.
 <!-- FUN_FACT_END -->
 
 
