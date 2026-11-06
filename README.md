@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Mercury is the only planet whose orbit is coplanar with its equator.
+> King Louis XIX ruled France for 15 minutes.
 <!-- FUN_FACT_END -->
 
 
