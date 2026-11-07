@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> King Louis XIX ruled France for 15 minutes.
+> The first female guest host of "Saturday Night Live" was Candace Bergen.
 <!-- FUN_FACT_END -->
 
 
