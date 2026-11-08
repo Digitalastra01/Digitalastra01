@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The first female guest host of "Saturday Night Live" was Candace Bergen.
+> Every US president has worn glasses (just not always in public).
 <!-- FUN_FACT_END -->
 
 
