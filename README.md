@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A shrimp’s heart is in its head.
+> The U.S. Post Office handles 43 percent of the world’s mail.
 <!-- FUN_FACT_END -->
 
 
