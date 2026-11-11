@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The U.S. Post Office handles 43 percent of the world’s mail.
+> The Simpsons is the longest running animated series on TV.
 <!-- FUN_FACT_END -->
 
 
