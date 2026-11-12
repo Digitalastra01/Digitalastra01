@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The Simpsons is the longest running animated series on TV.
+> The U.S. military operates 234 golf courses
 <!-- FUN_FACT_END -->
 
 
