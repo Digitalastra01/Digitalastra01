@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The U.S. military operates 234 golf courses
+> The surface of the Earth is about 60% water and 10% ice.
 <!-- FUN_FACT_END -->
 
 
