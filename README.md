@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The surface of the Earth is about 60% water and 10% ice.
+> You are more likely to be killed by a champagne cork than by a poisonous spider.
 <!-- FUN_FACT_END -->
 
 
