@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> You are more likely to be killed by a champagne cork than by a poisonous spider.
+> The state of Maryland has no natural Lakes.
 <!-- FUN_FACT_END -->
 
 
