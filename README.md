@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Our eyes are always the same size from birth but our nose and ears never stop growing.
+> Rubber bands last longer when refrigerated.
 <!-- FUN_FACT_END -->
 
 
