@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Rubber bands last longer when refrigerated.
+> The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`
 <!-- FUN_FACT_END -->
 
 
