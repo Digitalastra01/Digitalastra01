@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`
+> The Black Widow spider eats her mate during or after sex.
 <!-- FUN_FACT_END -->
 
 
