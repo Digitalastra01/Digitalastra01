@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.
+> Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.
 <!-- FUN_FACT_END -->
 
 
