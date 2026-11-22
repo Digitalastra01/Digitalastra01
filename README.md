@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.
+> Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  
 <!-- FUN_FACT_END -->
 
 
