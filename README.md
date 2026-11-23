@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  
+> The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.
 <!-- FUN_FACT_END -->
 
 
