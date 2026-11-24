@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.
+> A cat's jaw cannot move sideways.
 <!-- FUN_FACT_END -->
 
 
