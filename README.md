@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> A cat's jaw cannot move sideways.
+> Oak trees do not produce acorns until they are fifty years of age or older.
 <!-- FUN_FACT_END -->
 
 
