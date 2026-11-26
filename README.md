@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Oak trees do not produce acorns until they are fifty years of age or older.
+> In every episode of Seinfeld there is a Superman somewhere.
 <!-- FUN_FACT_END -->
 
 
