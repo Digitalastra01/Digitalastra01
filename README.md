@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> In every episode of Seinfeld there is a Superman somewhere.
+> The placement of a donkey's eyes in it’s' heads enables it to see all four feet at all times!
 <!-- FUN_FACT_END -->
 
 
