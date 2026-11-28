@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> The placement of a donkey's eyes in it’s' heads enables it to see all four feet at all times!
+> 1,800 cigarettes are smoked per person each year in China.
 <!-- FUN_FACT_END -->
 
 
